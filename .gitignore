@@ -1,0 +1,7 @@
+node_modules
+app.js
+app.js.map
+components/*.js
+pages/*.js
+.next
+.sake
