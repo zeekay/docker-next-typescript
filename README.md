@@ -1,5 +1,7 @@
 # docker-next-typescript
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zeekay/docker-next-typescript.svg)](https://greenkeeper.io/)
+
 [![build][build-img]][build-url]
 [![license][license-img]][license-url]
 [![chat][chat-img]][chat-url]
