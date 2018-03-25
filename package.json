@@ -16,23 +16,23 @@
     "test": "sake test"
   },
   "devDependencies": {
-    "@types/express": "^4.0.35",
-    "@types/node": "^7.0.13",
-    "@types/react": "^15.0.22",
-    "sake-bundle": "^0.4.16",
-    "sake-cli": "^0.6.4",
+    "@types/express": "^4.11.1",
+    "@types/node": "^9.6.0",
+    "@types/react": "^16.0.41",
+    "sake-bundle": "^0.6.7",
+    "sake-cli": "^0.6.5",
     "sake-core": "^1.6.2",
     "sake-outdated": "^0.2.1",
-    "sake-publish": "^0.1.12",
+    "sake-publish": "^0.1.16",
     "sake-sysinfo": "^0.2.1",
-    "sake-test": "^0.1.5",
-    "sake-version": "^0.1.18",
-    "typescript": "^2.2.2"
+    "sake-test": "^0.2.1",
+    "sake-version": "^0.1.19",
+    "typescript": "^2.7.2"
   },
   "dependencies": {
-    "express": "^4.15.2",
-    "next": "^2.1.1",
-    "react": "^15.5.4",
-    "react-dom": "^15.5.4"
+    "express": "^4.16.3",
+    "next": "^5.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   }
 }
