@@ -16,9 +16,9 @@ task('run', 'run docker image', ['docker:build'], (opts) => {
 })
 
 task('build', 'run node app in container', (opts) => {
-  exec('tsc -p . -pretty')
+  exec('tsc --pretty --project src/ --outDir lib/')
 })
 
 task('start', 'run node app in container', ['build'], (opts) => {
-  require('./app.js')
+  require('./server.js')
 })
