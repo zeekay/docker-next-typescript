@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2017",
+        "jsx": "react",
+        "allowJs": true,
+        "rootDir": "."
+    }
+}
+

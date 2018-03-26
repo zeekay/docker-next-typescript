@@ -12,7 +12,7 @@ task('docker:build', 'build docker image', (opts) => {
 })
 
 task('run', 'run docker image', ['docker:build'], (opts) => {
-  exec('docker run --user $(id -u) -p 4000:80 next-typescript')
+  exec('docker run --user $(id -u) -p 3000:80 next-typescript')
 })
 
 task('build', 'run node app in container', (opts) => {
