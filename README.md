@@ -1,5 +1,7 @@
 # docker-next-typescript
 
+[![Open in Hanzo](https://hanzo.app/badges/open-in-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/docker-next-typescript&ref=master&action=open) [![Edit with Hanzo](https://hanzo.app/badges/edit-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/docker-next-typescript&ref=master&action=edit) [![Deploy with Hanzo](https://hanzo.app/badges/deploy-with-hanzo.svg)](https://hanzo.app/dev/open?repo=github.com/zeekay/docker-next-typescript&ref=master&action=deploy)
+
 [![build][build-img]][build-url]
 [![license][license-img]][license-url]
 [![chat][chat-img]][chat-url]
